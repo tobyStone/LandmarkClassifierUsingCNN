@@ -1,4 +1,4 @@
-# LanmarkClassifierUsingCNN
+# LandmarkClassifierUsingCNN
 Udacity second project in Deep Learning
 
 
